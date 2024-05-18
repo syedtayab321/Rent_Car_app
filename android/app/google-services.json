@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686138472321",
+    "project_id": "fir-series-6d61e",
+    "storage_bucket": "fir-series-6d61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686138472321:android:09169fce02aa530f485a80",
+        "android_client_info": {
+          "package_name": "com.example.rent_car_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-X4P5mP_Yt4UnRClH8J0sOnNJUlh-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
